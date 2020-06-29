@@ -1,1 +1,1 @@
-# alura-javascript-avan-ado-I
+Curso de javascript avançado.
